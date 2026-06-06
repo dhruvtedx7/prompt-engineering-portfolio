@@ -605,3 +605,31 @@ This approach is useful for problems involving multiple calculations because it 
 One limitation I observed is that step-by-step reasoning can become longer than necessary for simple problems.
 
 ---
+
+### 3.2 Few-Shot Prompting
+
+#### Task
+Create a sentiment classifier using few-shot prompting.
+
+---
+### Step 1: Zero-Shot Attempt
+
+**Prompt:**
+Classify each review as Positive, Negative, or Neutral.
+
+Reviews:
+1. The product arrived damaged and customer service was unhelpful.
+2. Works as expected, nothing special but does the job.
+3. Absolutely love this! Best purchase I've made all year!
+4. The quality is okay but slightly overpriced for what you get.
+5. Terrible experience, would not recommend to anyone.
+
+**LLM Output:**
+1. **Negative** — The product arrived damaged and customer service was unhelpful.
+2. **Neutral** — Works as expected, nothing special but does the job.
+3. **Positive** — Absolutely love this! Best purchase I've made all year!
+4. **Neutral** — The quality is okay but slightly overpriced for what you get.
+5. **Negative** — Terrible experience, would not recommend to anyone.
+
+
+---

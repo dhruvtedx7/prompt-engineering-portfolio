@@ -530,3 +530,16 @@ Every afternoon at exactly four, one section of the library became completely si
 | High (1.2) | More imaginative and unexpected | High | Lower |
 
 ---
+
+### 2.2 Analysis & Recommendations
+Low temperature works best when consistency and accuracy matter more than creativity. Two situations where I would use low temperature are writing professional emails and generating factual explanations for educational content.
+
+High temperature is useful when generating original ideas or exploring multiple creative directions. Two situations where I would use high temperature are brainstorming marketing campaigns and writing fictional stories.
+
+For this task, medium temperature worked best because it balanced creativity with structure. The response stayed interesting while still feeling coherent and easy to follow.
+
+The low temperature output felt controlled but less imaginative, while the high temperature output produced more surprising ideas but sometimes reduced consistency.
+
+This experiment showed that adjusting temperature can noticeably change the style and usefulness of LLM responses depending on the goal.
+
+---

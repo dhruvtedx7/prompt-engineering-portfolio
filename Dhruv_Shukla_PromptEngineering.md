@@ -223,6 +223,31 @@ Warm regards,
 **Reflection:**
 The email was professional but slightly generic and did not include enough context or personal tone.
 
+### Version 2 — Refined Prompt
+
+**Prompt:**
+You are a professional career advisor helping an employee write a respectful email. Draft an email declining a job offer politely while maintaining a positive relationship and expressing continued interest in future opportunities at the company. Keep the tone warm, professional, and concise.
+
+**LLM Output:**
+Dear [Hiring Manager’s Name],
+
+Thank you very much for offering me the opportunity to join [Company Name]. I truly appreciate the time, effort, and consideration that you and the team invested throughout the process.
+
+After careful consideration, I have decided to decline the offer at this time, as I believe it is the right decision based on my current priorities and circumstances.
+
+This was not an easy decision, as I was genuinely impressed by the team, the conversations we had, and the work being done at [Company Name]. I sincerely hope to stay connected and would welcome the opportunity to explore potential opportunities together in the future.
+
+Thank you again for your trust and understanding. I wish you and the team continued success.
+
+Warm regards,
+[Your Name]
+
+
+**Reflection:**
+The prompt became more specific by adding a role and clearer expectations for tone and outcome. This made the email feel more natural and relationship-focused.
+
+---
+
 ---
 
 

@@ -663,3 +663,21 @@ Now classify these reviews:
 
 
 ---
+### Step 3: Analysis
+
+| Review # | Zero-Shot Result | Few-Shot Result | Correct Label | Improved? |
+|----------|------------------|-----------------|---------------|-----------|
+| 1 | Negative | Negative | Negative | No |
+| 2 | Neutral | Neutral | Neutral | No |
+| 3 | Positive | Positive | Positive | No |
+| 4 | Neutral | Neutral | Neutral | No |
+| 5 | Negative | Negative | Negative | No |
+
+---
+
+
+Few-shot prompting is most useful when tasks require consistent formatting or classification rules. Providing examples helps guide the model and reduce ambiguity.
+
+This technique becomes more valuable when categories are subtle or when outputs need to follow a specific pattern.
+
+---

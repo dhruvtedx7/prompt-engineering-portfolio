@@ -143,3 +143,29 @@ Fun question: If you were training a robot, what would you teach it to recognize
 I improved the prompt by adding a role, clearer instructions, and asking for an example to make the explanation easier to understand.
 
 ---
+### Version 3 — Final Prompt
+
+**Prompt:**
+You are an experienced elementary school teacher introducing technology to a class of 10-year-olds who have never heard of neural networks before. Explain neural networks using simple language and one everyday example a child would know. Avoid difficult words, keep the explanation under 150 words, break it into short paragraphs, and end with one fun question plus one sentence summarising the idea.
+
+**LLM Output:**
+magine you are teaching a robot how to recognise a dog.
+
+At first, the robot looks at lots of pictures and gets confused. Sometimes it says a cat is a dog!
+
+So we help it learn. We show many examples and tell it when it is right or wrong.
+
+Inside the robot are lots of tiny “decision helpers” working together. One helper notices ears. Another notices fur. Another notices the shape of the face. Together, they make a guess.
+
+This teamwork of little helpers is called a neural network.
+
+It’s a bit like how you learn too: the more examples you see, the better you get at spotting patterns.
+
+Fun question: If you trained a robot with pictures of your favourite snacks, what snacks would it learn to recognise?
+
+Summary: A neural network is a team of tiny decision-makers that learns from examples to recognise patterns.
+
+**Reflection:**
+This version added more context and structure. Shorter sections, a relatable example, and a summary made the explanation easier to understand and more suited to the audience.
+
+---

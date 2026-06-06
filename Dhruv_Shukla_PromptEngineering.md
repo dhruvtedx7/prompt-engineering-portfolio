@@ -206,9 +206,23 @@ Draft an email declining a job offer politely while expressing continued interes
 Write an email declining a job offer politely while expressing continued interest in the company.
 
 **LLM Output:**
-[Paste output here]
+Dear [Hiring Manager’s Name],
+
+Thank you very much for extending the offer for the [Role Title] position. I sincerely appreciate the time, effort, and consideration that you and the team invested throughout the interview process.
+
+After careful consideration, I’ve decided to decline the offer at this time, as I’ve chosen to move in a different direction that I believe aligns more closely with my current priorities and goals.
+
+This was not an easy decision, as I was genuinely impressed by the team, the conversations we had, and the work being done at [Company Name]. I continue to hold the company in high regard and would welcome the opportunity to stay connected and explore potential opportunities to work together in the future.
+
+Thank you again for your time and support throughout the process. I truly appreciate the experience and wish the team continued success.
+
+Warm regards,
+[Your Name]
+
 
 **Reflection:**
 The email was professional but slightly generic and did not include enough context or personal tone.
 
 ---
+
+

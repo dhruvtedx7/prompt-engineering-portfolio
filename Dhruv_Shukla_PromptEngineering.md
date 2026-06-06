@@ -521,4 +521,12 @@ Every afternoon at exactly four, one section of the library became completely si
 
 
 ---
+### Comparison Table
 
+| Temperature | Observed Style | Creativity | Consistency |
+|-------------|---------------|------------|-------------|
+| Low (0.2) | More direct and structured | Low | High |
+| Medium (0.7) | Balanced storytelling | Medium | Medium |
+| High (1.2) | More imaginative and unexpected | High | Lower |
+
+---

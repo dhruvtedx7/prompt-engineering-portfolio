@@ -249,5 +249,28 @@ The prompt became more specific by adding a role and clearer expectations for to
 ---
 
 ---
+### Version 3 — Final Prompt
 
+**Prompt:**
+You are a senior career coach helping a professional respond thoughtfully to a job offer. Write a polite email declining a job offer while keeping the relationship positive and expressing genuine interest in future opportunities with the company. Make the email sound appreciative, sincere, and concise (under 180 words). Avoid overly formal language.
+
+**LLM Output:**
+Hi [Hiring Manager’s Name],
+
+Thank you so much for the offer and for the time and effort you and the team invested throughout the process. I really enjoyed getting to know the team and learning more about the work happening at [Company Name].
+
+After a lot of thought, I’ve decided to decline the offer at this time. This wasn’t an easy decision, but I believe it’s the right one for where I am currently.
+
+I want to sincerely thank you for the opportunity and for the confidence you showed in me. I’ve come away with a very positive impression of the company, and I’d genuinely love to stay in touch and explore opportunities to work together in the future if the timing aligns.
+
+Wishing you and the team continued success, and thank you again.
+
+Best,
+[Your Name]
+
+
+**Reflection:**
+This version added stronger context and constraints to improve tone and realism. Limiting length and guiding emotional tone made the email feel more natural and authentic.
+
+---
 

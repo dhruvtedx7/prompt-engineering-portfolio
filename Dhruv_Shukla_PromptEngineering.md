@@ -283,4 +283,39 @@ This version added stronger context and constraints to improve tone and realism.
 | V3 | Added audience context, emotional tone, word limit, and realism. | Introduced constraints and natural language guidance. | The response felt more concise, realistic, and professional. |
 
 ---
+### 1.1 Scenario C: Creative Content
 
+#### Goal
+Generate a creative marketing tagline for a new eco-friendly water bottle brand.
+
+---
+
+### Version 1 — Initial Prompt
+
+**Prompt:**
+Create a marketing tagline for a new eco-friendly water bottle brand.
+
+**LLM Output:**
+Here are a few options depending on the vibe you want:
+
+* **Refill the bottle. Refresh the planet.**
+* **Drink clean. Live green.**
+* **Hydrate responsibly.**
+* **Better for you. Better for Earth.**
+* **Every sip leaves less behind.**
+* **Carry water, not waste.**
+* **Designed to refill. Built to last.**
+* **Pure hydration. Smaller footprint.**
+* **Sip sustainably.**
+* **One bottle. Endless refills.**
+* **Choose the bottle that chooses the planet.**
+* **Good water. Good habits. Good future.**
+* **Hydration with purpose.**
+
+If you want, I can also make them feel more **premium**, **Gen Z**, **luxury**, **minimal**, or **Apple/Patagonia-style** branding.
+
+
+**Reflection:**
+The output generated ideas but they felt broad and lacked a distinct brand personality.
+
+---

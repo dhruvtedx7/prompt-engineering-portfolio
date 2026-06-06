@@ -169,3 +169,25 @@ Summary: A neural network is a team of tiny decision-makers that learns from exa
 This version added more context and structure. Shorter sections, a relatable example, and a summary made the explanation easier to understand and more suited to the audience.
 
 ---
+
+
+
+### Iteration Documentation
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|--------|--------------|------------------------------|
+| V1 | Explain neural networks to a 10-year-old. | N/A | Baseline prompt used to see the initial quality. |
+| V2 | Added role, audience instructions, example requirement, and simpler language constraints. | Introduced role assignment and clearer expectations. | The output became easier to understand and more engaging for a child. |
+| V3 | Added classroom context, word limit, paragraph structure, summary, and interaction. | Added stronger context and output structure. | The response became more focused, age-appropriate, and easier to follow. |
+
+---
+
+### 1.3 Role and Context Analysis
+
+Adding a role helped the model adjust its tone and style for the intended audience. Instead of giving a generic explanation, the responses became more suitable for how an elementary school teacher would explain concepts.
+
+Providing context made the output more targeted and reduced unnecessary technical detail. Adding constraints such as examples, word limits, and structure also improved clarity.
+
+This exercise showed that better prompts usually lead to better outputs and that context can strongly influence response quality.
+
+---

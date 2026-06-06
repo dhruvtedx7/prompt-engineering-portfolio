@@ -191,3 +191,24 @@ Providing context made the output more targeted and reduced unnecessary technica
 This exercise showed that better prompts usually lead to better outputs and that context can strongly influence response quality.
 
 ---
+
+
+
+### 1.1 Scenario B: Professional Email
+
+#### Goal
+Draft an email declining a job offer politely while expressing continued interest in the company.
+
+---
+### Version 1 — Initial Prompt
+
+**Prompt:**
+Write an email declining a job offer politely while expressing continued interest in the company.
+
+**LLM Output:**
+[Paste output here]
+
+**Reflection:**
+The email was professional but slightly generic and did not include enough context or personal tone.
+
+---

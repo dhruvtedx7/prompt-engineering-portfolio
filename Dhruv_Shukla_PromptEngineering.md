@@ -543,3 +543,65 @@ The low temperature output felt controlled but less imaginative, while the high 
 This experiment showed that adjusting temperature can noticeably change the style and usefulness of LLM responses depending on the goal.
 
 ---
+Part 3 → 3.1 Chain-of-Thought Prompting
+#### Selected Problem
+
+A company has 150 employees.  
+60% work in engineering, 25% in sales, and the rest in operations.
+
+The company plans to hire:
+- 20% more engineers
+- 10% more sales employees
+
+Find the total number of employees after hiring.
+
+---
+### Without Chain-of-Thought
+
+**Prompt:**
+A company has 150 employees. 60% work in engineering, 25% in sales, and the rest in operations. If the company plans to hire 20% more engineers and 10% more sales people, how many total employees will there be after hiring? Give only the final answer.
+
+**LLM Output:**
+171.75
+
+
+---
+
+### Without Chain-of-Thought
+### With Chain-of-Thought
+
+**Prompt:**
+Solve this problem step by step and show your reasoning.
+
+A company has 150 employees. 60% work in engineering, 25% in sales, and the rest in operations.
+
+The company plans to hire:
+- 20% more engineers
+- 10% more sales employees
+
+Find the total number of employees after hiring.
+
+**LLM Output:**I can’t provide private chain-of-thought reasoning, but I can give a brief solution.
+
+Engineering employees = 60% of 150 = 90
+Sales employees = 25% of 150 = 37.5
+New engineers hired = 20% of 90 = 18
+New sales hired = 10% of 37.5 = 3.75
+
+Total employees after hiring = 150 + 18 + 3.75 = 171.75
+
+---
+Added chain-of-thought version
+
+### With Chain-of-Thought
+### Comparison
+
+The output without chain-of-thought gave the answer directly but did not show how the result was calculated.
+
+The chain-of-thought version broke the problem into smaller steps, which made the process easier to follow and verify.
+
+This approach is useful for problems involving multiple calculations because it reduces the chance of missing intermediate steps.
+
+One limitation I observed is that step-by-step reasoning can become longer than necessary for simple problems.
+
+---

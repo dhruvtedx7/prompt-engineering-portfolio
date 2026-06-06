@@ -633,3 +633,33 @@ Reviews:
 
 
 ---
+### Step 2: Few-Shot Attempt
+
+**Prompt:**
+
+Review: "This product exceeded my expectations!"
+Sentiment: Positive
+
+Review: "Completely broke after one week of use."
+Sentiment: Negative
+
+Review: "It's fine, does what it says on the box."
+Sentiment: Neutral
+
+Now classify these reviews:
+
+1. The product arrived damaged and customer service was unhelpful.
+2. Works as expected, nothing special but does the job.
+3. Absolutely love this! Best purchase I've made all year!
+4. The quality is okay but slightly overpriced for what you get.
+5. Terrible experience, would not recommend to anyone.
+
+**LLM Output:**
+1. Negative
+2. Neutral
+3. Positive
+4. Neutral
+5. Negative
+
+
+---

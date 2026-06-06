@@ -189,6 +189,7 @@ Adding a role helped the model adjust its tone and style for the intended audien
 Providing context made the output more targeted and reduced unnecessary technical detail. Adding constraints such as examples, word limits, and structure also improved clarity.
 
 This exercise showed that better prompts usually lead to better outputs and that context can strongly influence response quality.
+Scenario B also showed that adding context improved the quality of professional communication. Defining tone and intent helped generate an email that felt more genuine and appropriate for maintaining future relationships.
 
 ---
 
@@ -271,6 +272,15 @@ Best,
 
 **Reflection:**
 This version added stronger context and constraints to improve tone and realism. Limiting length and guiding emotional tone made the email feel more natural and authentic.
+
+---
+### Scenario B – Iteration Documentation
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|--------|--------------|------------------------------|
+| V1 | Asked for a polite job offer decline email. | N/A | Created a baseline response to evaluate quality. |
+| V2 | Added role assignment and defined tone and intent. | Included context and clearer expectations. | The email became warmer and more relationship-oriented. |
+| V3 | Added audience context, emotional tone, word limit, and realism. | Introduced constraints and natural language guidance. | The response felt more concise, realistic, and professional. |
 
 ---
 

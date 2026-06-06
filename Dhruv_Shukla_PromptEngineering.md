@@ -437,3 +437,65 @@ This version added stronger audience context and tighter creative constraints. T
 | V3 | Added audience context, word limits, and campaign constraints. | Introduced clearer creative boundaries. | Ideas became more memorable and usable. |
 
 ---
+## Part 2: Temperature & Parameter Control
+
+### 2.1 Temperature Experimentation
+#### Chosen Task
+Creating a short story opening (2–3 sentences)
+
+### Original Prompt
+
+Write the opening (2–3 sentences) of a short story about discovering a hidden door inside an old library.
+
+---
+### Low Temperature (0.2)
+
+**Prompt Used:**
+Write the opening (2–3 sentences) of a short story about discovering a hidden door inside an old library. Be precise and consistent.
+
+**LLM Output:**
+The old library had been closed for years, but no one in town could explain why. While reaching for a dust-covered book on the highest shelf, I heard a quiet click—and the entire section shifted inward, revealing a narrow wooden door hidden in the wall.
+
+
+---
+### Medium Temperature (0.7)
+
+**Prompt Used:**
+Write the opening (2–3 sentences) of a short story about discovering a hidden door inside an old library.
+
+**LLM Output:**
+The oldest corner of the library smelled of paper, dust, and rain that had seeped into the walls for decades. When I pulled out a faded atlas to inspect its cracked spine, the shelf behind it shifted slightly, exposing the outline of a narrow door I was certain had never been there before.
+
+
+---
+### High Temperature (1.2)
+
+**Prompt Used:**
+Write the opening (2–3 sentences) of a short story about discovering a hidden door inside an old library. Be creative and explore diverse ideas.
+
+**LLM Output:**
+Here are three different directions—mysterious, magical, and unsettling:
+
+**1. Quiet Mystery**
+
+I only moved the ladder because the rain had started leaking through the ceiling again. Behind a row of untouched encyclopedias, hidden in the shape of the wall itself, was a narrow wooden door with a brass handle polished far more recently than anything else in the library.
+
+**2. Magical / Wonder**
+
+Every book in the old library had a date stamped inside the cover—except one. When I opened it, the shelf beside me folded inward without a sound, revealing a blue door where no doorway had existed a moment earlier.
+
+**3. Unsettling / Atmospheric**
+
+The library map showed twelve aisles; I counted thirteen. At the end of the extra aisle stood a small green door hidden between biographies, and hanging from its handle was a card with my name written in fading ink.
+
+---
+
+### Comparison Table
+
+| Temperature | Observed Style | Creativity | Consistency |
+|-------------|---------------|------------|-------------|
+| Low (0.2) | More direct and structured | Low | High |
+| Medium (0.7) | Balanced storytelling | Medium | Medium |
+| High (1.2) | More imaginative and unexpected | High | Lower |
+
+---

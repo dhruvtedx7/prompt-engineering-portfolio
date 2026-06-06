@@ -499,3 +499,26 @@ The library map showed twelve aisles; I counted thirteen. At the end of the extr
 | High (1.2) | More imaginative and unexpected | High | Lower |
 
 ---
+### High Temperature (1.2)
+
+**Prompt Used:**
+Write the opening (2–3 sentences) of a short story about discovering a hidden door inside an old library. Be creative and explore diverse ideas.
+
+**LLM Output:**
+Here are three fresh takes with different moods:
+
+**1. Literary / Dreamlike**
+
+The old library had a rule no one questioned: never reshelve a book yourself. On the evening I ignored it and slid a thin poetry collection into place, the shelf moved backward and revealed a door made entirely of dark wood, without a handle or keyhole.
+
+**2. Adventure / Discovery**
+
+I was looking for a history book that didn’t exist in the catalogue. Instead, I found a loose brick behind the archives section, and when I pressed it, a hidden door opened with the long, reluctant sound of something waking up.
+
+**3. Strange / Eerie**
+
+Every afternoon at exactly four, one section of the library became completely silent—not quieter, but absent of sound altogether. When I stepped into the silence and reached for the nearest shelf, a narrow door appeared where the wall should have been.
+
+
+---
+

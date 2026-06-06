@@ -319,3 +319,121 @@ If you want, I can also make them feel more **premium**, **Gen Z**, **luxury**, 
 The output generated ideas but they felt broad and lacked a distinct brand personality.
 
 ---
+
+### 1.1 Scenario C: Creative Content
+
+#### Goal
+Generate a creative marketing tagline for a new eco-friendly water bottle brand.
+
+---
+
+### Version 1 — Initial Prompt
+
+**Prompt:**
+Create a marketing tagline for a new eco-friendly water bottle brand.
+
+**LLM Output:**
+Here are some tagline options for a new eco-friendly water bottle brand:
+
+* **Refill Today. Renew Tomorrow.**
+* **Hydrate Without the Footprint.**
+* **Every Sip Makes a Difference.**
+* **Drink Well. Do Good.**
+* **Pure Water. Cleaner World.**
+* **Refill. Reuse. Repeat.**
+* **Carry Change in Every Bottle.**
+* **Sustainable by Nature. Designed for Life.**
+* **Less Waste. More Water.**
+* **One Bottle. Endless Impact.**
+* **Hydration That Gives Back.**
+* **Sip Smart. Live Green.**
+* **Good for You. Better for the Planet.**
+* **Drink Responsibly.**
+* **The Bottle That Thinks Beyond Today.**
+
+My strongest brand-ready picks:
+
+1. **Refill Today. Renew Tomorrow.**
+2. **Every Sip Makes a Difference.**
+3. **One Bottle. Endless Impact.**
+4. **Hydrate Without the Footprint.**
+
+**Reflection:**
+The output generated ideas but they felt broad and lacked a distinct brand personality.
+
+---
+
+### Version 2 — Refined Prompt
+
+**Prompt:**
+You are a professional brand copywriter. Create 10 short and memorable marketing taglines for a new eco-friendly water bottle brand aimed at young adults. The tone should feel modern, sustainable, and energetic.
+
+**LLM Output:**
+Here are 10 short, memorable tagline options for an eco-friendly water bottle brand aimed at young adults:
+
+1. **Sip Clean. Live Bold.**
+2. **Refill Your World.**
+3. **Drink Better. Waste Less.**
+4. **Hydrate the Future.**
+5. **Carry Water. Not Waste.**
+6. **Good Vibes. Zero Plastic.**
+7. **Refuel. Reuse. Repeat.**
+8. **Fresh Water. Smaller Footprint.**
+9. **Stay Hydrated. Stay Wild.**
+10. **One Bottle. Endless Impact.**
+
+Bonus directions depending on brand vibe:
+
+* **More premium:** *Designed to Refill Life.*
+* **More Gen Z:** *Sip Different.*
+* **More movement/fitness:** *Hydrate. Move. Repeat.*
+* **More climate-focused:** *Every Refill Counts.*
+* **More lifestyle-first:** *Drink Cool. Do Good.*
+
+
+**Reflection:**
+Adding a role and target audience created more focused and brand-oriented ideas. Asking for multiple options improved creativity and variety.
+
+---
+
+### Version 3 — Final Prompt
+
+**Prompt:**
+You are a senior brand strategist launching a new eco-friendly water bottle brand for Gen Z consumers. Create 10 short marketing taglines (maximum 6 words each). The taglines should feel modern, sustainable, energetic, and memorable. Avoid clichés and make them suitable for social media campaigns.
+
+**LLM Output:**
+Here are 10 Gen Z–leaning eco-friendly water bottle taglines (max 6 words each):
+
+1. **Refill the Routine.**
+2. **Carry Change. Sip Daily.**
+3. **Less Waste. More You.**
+4. **Hydrate Without the Footprint.**
+5. **Good Energy. Better Habits.**
+6. **Born to Be Refilled.**
+7. **Planet On. Cap Off.**
+8. **Drink Forward.**
+9. **Make Every Sip Matter.**
+10. **Your Bottle. Your Impact.**
+
+A few stronger social-first variants:
+
+* **Refill > Replace**
+* **Low Waste. High Energy.**
+* **Hydration, Reimagined.**
+* **Future Looks Reusable.**
+* **Sip Loud. Waste Less.**
+
+
+**Reflection:**
+This version added stronger audience context and tighter creative constraints. The shorter format and clearer brand identity produced more distinctive and campaign-ready ideas.
+
+---
+### Scenario C – Iteration Documentation
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|--------|--------------|------------------------------|
+| V1 | Asked for a tagline. | N/A | Established baseline creativity and style. |
+| V2 | Added role, audience, and tone. | Increased direction and variety. | Outputs became more relevant and branded. |
+| V3 | Added audience context, word limits, and campaign constraints. | Introduced clearer creative boundaries. | Ideas became more memorable and usable. |
+
+---
